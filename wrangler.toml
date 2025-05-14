@@ -1,0 +1,6 @@
+name = "alist-proxy"
+main = "workers.js"
+workers_dev = true
+
+[placement]
+mode = "smart"
