@@ -7,3 +7,6 @@ workers_dev = true
 mode = "smart"
 
 [vars]
+ADDRESS = ""
+TOKEN = ""
+WORKER_ADDRESS = ""
